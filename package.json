@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Colinjpjp/Sen/issues"
   },
-  "homepage": "https://github.com/Colinjpjp/Sen#readme"
+  "homepage": "https://github.com/Colinjpjp/Sen#readme",
+  "dependencies": {
+    "format-logs": "^2.0.1"
+  }
 }
