@@ -4,7 +4,7 @@
   "description": "A program to calculate angles using the sen formula",
   "main": "index.js",
   "scripts": {
-    "test": "test",
+    "test": "standard",
     "start": "node index.js"
   },
   "repository": {
@@ -26,5 +26,8 @@
   "homepage": "https://github.com/Colinjpjp/Sen#readme",
   "dependencies": {
     "format-logs": "^2.0.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
   }
 }
