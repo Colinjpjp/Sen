@@ -4,7 +4,8 @@
   "description": "A program to calculate angles using the sen formula",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
