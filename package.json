@@ -1,0 +1,33 @@
+{
+  "name": "sen",
+  "version": "1.0.0",
+  "description": "A program to calculate angles using the sen formula",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colinjpjp/Sen.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node.Js",
+    "Sen",
+    "Math",
+    "CLI"
+  ],
+  "author": "Colinjpjp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Colinjpjp/Sen/issues"
+  },
+  "homepage": "https://github.com/Colinjpjp/Sen#readme",
+  "dependencies": {
+    "format-logs": "^2.0.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
